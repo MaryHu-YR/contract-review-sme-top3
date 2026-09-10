@@ -20,3 +20,8 @@ Error cells use: `Title: summary`. Comment columns are blank for SMEs.
 ## Spreadsheet link
 
 https://github.com/MaryHu-YR/contract-review-sme-top3/blob/main/sme_review_top3.tsv
+
+## Consistency stats
+
+- [`zeroshot_consistency_stats_20_brief.md`](zeroshot_consistency_stats_20_brief.md) — key percentages
+- [`zeroshot_consistency_stats_20.md`](zeroshot_consistency_stats_20.md) — full stats with counts

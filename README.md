@@ -7,7 +7,8 @@ Public mirror for SME review. The main experiment repo is private.
 
 ## Files
 
-- [`sme_review_top3.tsv`](sme_review_top3.tsv) — spreadsheet for SME comments
+- [`sme_review_top3.xlsx`](sme_review_top3.xlsx) — Excel spreadsheet for SME comments (wrapped text)
+- [`sme_review_top3.tsv`](sme_review_top3.tsv) — same data as TSV
 - [`contracts/`](contracts/) — one markdown file per contract (top 3 errors + full text)
 
 ## TSV columns

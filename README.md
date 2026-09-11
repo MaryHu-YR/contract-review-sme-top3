@@ -1,5 +1,8 @@
 # Contract review SME sheet (top 3 errors)
 
+SME subset: contracts **2, 5, 6, 7, 8, 10, 13, 14, 16, 21** (10 contracts).
+
+
 Public mirror for SME review. The main experiment repo is private.
 
 ## Files

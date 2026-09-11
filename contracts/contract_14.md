@@ -6,22 +6,13 @@
 
 Amendment clause omits Company consent: Paragraph 12 allows Sponsor and Insiders to amend or waive provisions without requiring the Company's consent despite the Company being a party.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Underwriters lack third-party beneficiary status: Underwriters receive contractual rights and acknowledgments but are neither parties nor expressly designated as third-party beneficiaries, leaving enforcement uncertain.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Termination clause ambiguity with multiple lock-up periods: Paragraph 17's reference to 'the earlier of' with two different Lock-up Periods creates ambiguity about when the agreement terminates and what survives.
-
-- SME comment 3:
-
 
 ## Contract text
 

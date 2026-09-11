@@ -6,22 +6,13 @@
 
 Vague 'approximately three months' Purchase Period duration and share-cap mismatch: The use of 'approximately' provides no objective boundary for the Purchase Period's end date, and a period that is not exactly three or six months falls outside the literal per-period share caps.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Circular definitions of 'Date of Offering' and 'Purchase Period': Each term is defined by reference to the other in Section 11, so neither independently fixes the start date of an offering, affecting option grant date and purchase price.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Undefined term 'Plan Period' in Section 13: Section 13 uses 'Plan Period' which is never defined; the operative defined term is 'Purchase Period,' creating uncertainty about the deemed-termination cutoff.
-
-- SME comment 3:
-
 
 ## Contract text
 

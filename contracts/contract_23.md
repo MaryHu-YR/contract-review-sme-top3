@@ -6,22 +6,13 @@
 
 Unresolved bracketed alternatives and blank placeholders: Essential grant terms (vesting schedule, retirement continuation period, grant date, grantee identity, number of units) are left as placeholders or unselected bracketed alternatives in Sections 3, 6(a), and the Notice of Grant.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Duplicate Exhibit A designation: The Notice and Award Agreement each refer to different documents as Exhibit A, creating cross-reference ambiguity.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Overbroad non-compete scope: Exhibit B Section 3 bars any connection with competitors across all geographies where the Company Group operates or markets, without limitation to the Grantee's role or activities.
-
-- SME comment 3:
-
 
 ## Contract text
 

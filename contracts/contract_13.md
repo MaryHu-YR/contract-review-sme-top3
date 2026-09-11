@@ -6,22 +6,13 @@
 
 Tier boundary gaps and ambiguity at threshold amounts: Proceeds of exactly US$15 million (and possibly US$10 million) fall into no tier due to exclusive boundary language ('less than'/'greater than'), and 'between' is ambiguous regarding endpoint inclusivity.
 
-- SME comment 1:
-
-
 ### Error 2
 
 No sunset or outside date for the retention incentive: The letter contains no expiration date, outside date, or measurement period by which the triggers must occur, so the contingent obligation could persist indefinitely.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Undefined 'significant portion' trigger: Paragraph (b) uses 'significant portion' of CaPre Assets without any percentage, value threshold, or objective standard, making it disputable whether the trigger has occurred.
-
-- SME comment 3:
-
 
 ## Contract text
 

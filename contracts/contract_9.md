@@ -6,22 +6,13 @@
 
 Undefined performance milestones with no determination mechanism: Key vesting/payment triggers (NDA resubmission, NDA approval, commercial launch, Type A meeting) are undefined, and no party or standard is identified for determining achievement.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Unfilled template placeholders for essential terms: Material economic terms (participant name, grant sizes, dates, cash percentage, signatory) are left as blank placeholders throughout the document, rendering it unenforceable for indefiniteness.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Vague subjective performance condition on cash awards: The cash award performance condition provides no objective standard or decision-maker, and the phrase 'both...and/or' is internally contradictory, giving the Company near-unreviewable discretion.
-
-- SME comment 3:
-
 
 ## Contract text
 

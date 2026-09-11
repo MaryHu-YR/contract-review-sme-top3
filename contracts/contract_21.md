@@ -6,22 +6,13 @@
 
 Inconsistent ownership metrics and overlapping nomination tiers: Nomination rights in Section 1(a) use the Original Amount baseline while Sections 2 and 3 use then-outstanding voting power, and the 5% tier lacks an upper bound causing overlap with higher tiers.
 
-- SME comment 1:
-
-
 ### Error 2
 
 MLSH parties have no rights, obligations, or notice addresses: MLSH 1 and MLSH 2 are named parties and signatories but no operative provision confers rights or imposes obligations on them, they lack notice addresses, and their status relative to the GTCR definition is unclear.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Mandatory Board actions conflict with fiduciary duties and bind nonparty directors: Multiple provisions attempt to mandate Board action without adequate fiduciary-duty savings language and purport to obligate individual directors who are not parties to the Agreement.
-
-- SME comment 3:
-
 
 ## Contract text
 

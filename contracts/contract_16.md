@@ -6,22 +6,13 @@
 
 Unlawful blanket wage-deduction authorization: Blanket advance authorizations to deduct overpayments and notice shortfalls from salary risk contravening Fair Work Act s 324 requirements and may operate as a penalty.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Missing non-compete covenant despite headings and cross-references: Section 15 is titled 'Non-solicitation and Non-compete Obligations' and multiple clauses reference non-compete obligations, but no post-employment non-competition covenant is actually drafted.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Wrong entity executed the Agreement: The contracting employer is AECOM Australia Pty Ltd but the signature block binds the U.S. parent AECOM, creating execution and enforceability issues.
-
-- SME comment 3:
-
 
 ## Contract text
 

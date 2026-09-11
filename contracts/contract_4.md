@@ -6,22 +6,13 @@
 
 Unfilled blanks and placeholders throughout the Agreement: Essential terms (parties, dates, unit amounts, performance levels, execution dates) and bracketed placeholders are left blank, rendering key provisions indeterminate.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Interpolation formula gaps between Threshold and 90% of Target: The interpolation schedule begins at 90% of Target but the blank Threshold Level is never stated to equal 90% of Target, leaving a potential payout gap or discontinuity.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Change in Control vesting conflicts with Exhibit A actual-performance measurement: Section 3(d) mandates automatic Target-level vesting on a Change in Control while Exhibit A directs measurement of actual performance through the CiC date, creating an irreconcilable conflict.
-
-- SME comment 3:
-
 
 ## Contract text
 

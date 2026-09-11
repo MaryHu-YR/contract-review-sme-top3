@@ -6,22 +6,13 @@
 
 Amendment clause omits Company consent: Paragraph 12 permits amendments and waivers without the Company's signature despite the Company being a party and principal beneficiary of the covenants.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Third-party beneficiary disclaimer conflicts with Underwriter rights: Paragraphs 3 and 6 grant Underwriters consent and enforcement rights, but Paragraph 14 disclaims third-party beneficiary status for non-parties.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Notice provision lacks addresses and effectiveness rules: Paragraph 18 specifies delivery methods but omits notice addresses, recipients, and deemed-receipt timing despite time-sensitive mechanics elsewhere.
-
-- SME comment 3:
-
 
 ## Contract text
 

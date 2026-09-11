@@ -6,22 +6,13 @@
 
 Conflicting effective date of restricted stock grant: The cover letter conditions the grant on the third SPA closing while the Award Agreement fixes an unconditional grant date of November 9, 2020, creating uncertainty about ownership, vesting start, and tax consequences.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Compensation contingent on undefined external SPA closings with no fallback: The retainer and stock grant are conditioned on closings under an unattached, unidentified SPA with no definition of the closings, no notification mechanics, and no fallback if closings never occur.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Garbled retainer payment commencement language: The phrase 'commencing on the fifteenth (15th) day of each month' is grammatically incoherent, leaving the first payment date indeterminate.
-
-- SME comment 3:
-
 
 ## Contract text
 

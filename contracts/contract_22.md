@@ -6,22 +6,13 @@
 
 Unresolved template placeholders and unselected bracketed alternatives: Mutually exclusive bracketed vesting/retirement alternatives remain unselected in Section 3 and Section 7(a), making the applicable schedule indeterminate.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Overbroad non-compete scope: Exhibit B Section 3 bars any connection in any capacity with a competitor across unlimited geography without role-based limitation, risking unenforceability.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Conflicting governing law and forum clauses (Delaware vs. Georgia): Award Agreement Section 15 mandates exclusive Delaware jurisdiction while Exhibit B Section 9 mandates exclusive Georgia forum and law, creating potential parallel proceedings for covenant-breach forfeiture disputes.
-
-- SME comment 3:
-
 
 ## Contract text
 

@@ -6,22 +6,13 @@
 
 Forfeiture clause references wrong security type: Section 2.3 forfeits 'Restricted Shares' but the award grants RSUs, making the forfeiture provision potentially inapplicable to the actual award.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Essential award terms left blank: The participant's identity, number of RSUs, and grant value are left blank, leaving the award's essential terms indeterminate.
 
-- SME comment 2:
-
-
 ### Error 3
 
 No settlement timing for RSUs accelerated on death or disability: Sections 2.4 and 2.5 accelerate vesting upon death or disability but provide no settlement date or mechanism for the accelerated RSUs.
-
-- SME comment 3:
-
 
 ## Contract text
 

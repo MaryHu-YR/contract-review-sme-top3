@@ -6,22 +6,13 @@
 
 No readable contract text (image-only document): The entire filing consists solely of embedded image placeholders with no machine-readable or transcribed contract text, making any substantive review impossible.
 
-- SME comment 1:
-
-
 ### Error 2
 
 No operative terms: Essential operative terms including subject matter, scope, duration, obligations, termination, governing law, and remedies are wholly absent from the readable text.
 
-- SME comment 2:
-
-
 ### Error 3
 
 No signatures or execution formalities: No textual evidence of signatures, execution dates, or authorized signatories exists in the readable text.
-
-- SME comment 3:
-
 
 ## Contract text
 

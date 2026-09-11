@@ -6,22 +6,13 @@
 
 Blank essential terms (Holder, Warrant Shares, Issue Date): The identity of the Holder, number of Warrant Shares, and Issue Date are left blank in the Preamble/caption, rendering essential economic terms indeterminate.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Key defined terms used but never defined: Multiple operative capitalized terms including 'Business Day,' 'Commission,' 'Exchange Act,' 'Board,' 'Common Stock,' 'Transaction Documents,' and 'Registration Statement' are used throughout but never defined in the Warrant.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Cross-references to Reserved Section 2(d): Sections 2(c) and 2(e)(iii) reference Section 2(d) which is expressly Reserved; the intended references appear to be Sections 2(e)(i) and 2(e)(iv), creating ambiguity about remedies.
-
-- SME comment 3:
-
 
 ## Contract text
 

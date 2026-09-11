@@ -6,22 +6,13 @@
 
 Inconsistent survival of indemnity and obligations across termination routes: Section 5(b), Exhibit A, and Exhibit B contain inconsistent survival formulations, leaving a resigning trustee potentially unprotected and creating confusion about which provisions survive.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Liquidation-expense deductions conflict with principal-preservation covenant: Exhibits A and B authorize netting trust liquidation expenses from distributions, potentially reducing per-share principal in conflict with the express 'no reduction' acknowledgment in Section 1(i).
 
-- SME comment 2:
-
-
 ### Error 3
 
 Erroneous cross-reference in Section 2(c) fee-payment sources: Section 2(c) uses the anomalous range 'Sections 1(i) through 1(j)' creating uncertainty about which distributions may be used to pay fees.
-
-- SME comment 3:
-
 
 ## Contract text
 

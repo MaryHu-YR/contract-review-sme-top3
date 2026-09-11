@@ -6,22 +6,13 @@
 
 Worldwide non-compete is overbroad: Section 11(a) imposes a worldwide restriction covering broadly defined business categories without territorial or role-based limitation, creating serious enforceability risk.
 
-- SME comment 1:
-
-
 ### Error 2
 
 At-will statement contradicts fixed three-year Term: Section 7's at-will disclaimer is internally inconsistent with the defined multi-year renewable Term in Section 1(a).
 
-- SME comment 2:
-
-
 ### Error 3
 
 No deadline for Release execution: Section 7(a) sets no deadline for delivery or execution of the Release, creating Section 409A timing exposure and uncertainty about when severance commences.
-
-- SME comment 3:
-
 
 ## Contract text
 

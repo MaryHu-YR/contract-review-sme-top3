@@ -6,22 +6,13 @@
 
 Conflicting effective date / closing condition for equity grant: The letter conditions the grant on a future SPA closing while the Award Agreement fixes the Date of Grant as November 9, 2020, creating uncertainty about when the grant takes effect.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Ambiguous retainer commencement and payment-date language: The phrase 'commencing on the fifteenth day of each month following the fourth closing' is grammatically incoherent and unclear as to when payments actually begin, whether in advance or arrears, and when the annual period starts.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Material terms reside in unattached Plan and Lock-Up Agreement: Key provisions are incorporated by reference from the Plan and Lock-Up Agreement which are not attached or reproduced, leaving operative terms inaccessible to the Grantee.
-
-- SME comment 3:
-
 
 ## Contract text
 

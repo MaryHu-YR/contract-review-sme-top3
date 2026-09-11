@@ -6,22 +6,13 @@
 
 No proration or timing rules for partial service periods: The document does not specify proration, payment dates, or compensation treatment when a director joins, resigns, is removed, or changes roles mid-period.
 
-- SME comment 1:
-
-
 ### Error 2
 
 Ambiguity in stacking of committee chair and member retainers: The document does not clarify whether a committee chair receives both the chair retainer and the member retainer or only the chair retainer.
 
-- SME comment 2:
-
-
 ### Error 3
 
 No RSU forfeiture, acceleration, or termination-of-service provisions: The document is silent on what happens to unvested RSUs upon a director's death, disability, resignation, removal, or change in control before vesting.
-
-- SME comment 3:
-
 
 ## Contract text
 

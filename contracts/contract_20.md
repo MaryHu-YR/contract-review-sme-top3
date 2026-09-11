@@ -6,22 +6,13 @@
 
 Incomplete or missing notice information: Section 7.1 contains placeholder addresses, missing street numbers, blank attention/email fields, and no notice address for the Agent.
 
-- SME comment 1:
-
-
 ### Error 2
 
 LIBOR fallback is under-specified with unilateral discretion: All interest and discounting mechanics key off LIBOR with a vague fallback vesting selection solely in the Corporation, lacking day-count, compounding, and reset specifications.
 
-- SME comment 2:
-
-
 ### Error 3
 
 Amendment consent formula inoperative before first Exchange: Sections 7.7 and 7.15 measure consent thresholds as of 'the most recent Exchange,' but no measurement date exists if no Exchange has yet occurred.
-
-- SME comment 3:
-
 
 ## Contract text
 
